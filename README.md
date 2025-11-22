@@ -23,7 +23,3 @@ The summarizer:
 4. Scores each sentence
 5. Selects the top-ranked sentences to form the summary
 
----
-
-## 📁 Project Structure
-
